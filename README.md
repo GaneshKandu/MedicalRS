@@ -1,5 +1,5 @@
 
-![](http://ganeshkandu.github.io/MedicalRS/MedicalRS-src/Image/medical_logo.png)
+![](https://github.com/GaneshKandu/MedicalRS/blob/master/MedicalRS-src/Image/medical_logo.png)
 
 #Medical Record System
 
