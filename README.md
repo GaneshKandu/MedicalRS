@@ -12,9 +12,6 @@ Ganesh Kandu
 and
 Chandan Kandu
 
-UNDER THE GUIDENCE 
-OF
-PROF Ms. SNEHA M. GUPTA
 
 from
 
