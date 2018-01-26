@@ -1,7 +1,7 @@
 
 ![](https://github.com/GaneshKandu/MedicalRS/blob/master/MedicalRS-src/Image/medical_logo.png)
 
-#Medical Record System
+# Medical Record System
 
 "Medical Record System" it's My College Project
 
@@ -25,16 +25,16 @@ ACADEMIC YEAR 2013-2014
 
 DEPARTMENT OF INFORMATION TECHNOLOGY
 
-#note
+# note
 
 "Medical Record System" is Developed using Java Swing and MS Sql server
 now Database is changed to H2 database from MS Sql server
 so it's having same sql queries issues
 
-##About Me
+## About Me
 I am Software Developer in India<br/>
 [kanduganesh@gmail.com](mailto:kanduganesh@gmail.com?subject=MedicalRS:)
 
-##LICENSE
+## LICENSE
 
 Apache License
