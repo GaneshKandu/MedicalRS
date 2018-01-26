@@ -3,9 +3,9 @@
 
 # Medical Record System
 
-"Medical Record System" it's My College Project
+"Medical Record System" it's our College Project
 
-T.Y.B.Sc.I.T SEMESTER VI (CBSGS)
+T.Y.B.Sc.IT and T.Y.B.Sc.CS SEMESTER VI (CBSGS)
 PREPARED BY
 
 Ganesh Kandu,Chandan Kandu and Rahul H. Rajbhar
@@ -17,6 +17,7 @@ UNIVERSITY OF MUMBAI
 SHETH T.J.EDUCATION SOCIETY'S
 SHETH N.K.T.T. COLLEGE OF COMMERCE
 AND SHETH J.T.T. COLLEGE OF ARTS, THANE
+AND S.J.R.S. COLLEGE, KALWA
 
 ACADEMIC YEAR 2013-2014
 
@@ -30,7 +31,7 @@ so it's having same sql queries issues
 
 ## About Me
 ### we are Software Developer in India
-#### If you have any question, please feel free to contact me
+#### If you have any question, please feel free to contact us
 
 * [kanduganesh@gmail.com](mailto:kanduganesh@gmail.com)
 * [rajbharrahul1994@gmail.com](mailto:rajbharrahul1994@gmail.com)
